@@ -1,0 +1,32 @@
+# ===== Virtual Environment =====
+venv/
+.venv/
+env/
+ENV/
+
+# ===== Python cache =====
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ===== TensorFlow / Keras =====
+*.h5
+*.keras
+saved_model/
+logs/
+
+# ===== OpenCV output =====
+*.avi
+*.mp4
+
+# ===== Environment variables =====
+.env
+
+# ===== IDE =====
+.vscode/
+.idea/
+
+# ===== OS =====
+.DS_Store
+Thumbs.db
