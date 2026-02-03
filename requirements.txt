@@ -2,5 +2,3 @@ tensorflow>=2.10,<2.16
 keras>=2.10,<3.0
 opencv-python>=4.8
 numpy>=1.23
-
-pillow>=9.0     # For image processing      (Planned) 
